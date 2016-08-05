@@ -1,0 +1,119 @@
+li{
+	display: inline-block;
+	margin-left: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+#imagen1{
+	background-image: url("../img/dance_12.jpg");
+	background-size: 100% 100%;
+	height: 355px;
+	width: 275px;
+	margin-left: 7%;
+	margin-top: 2%;
+}
+#imagen2{
+	background-image: url("../img/breakdance.jpg");
+	background-size: 100% 100%;
+	height: 355px;
+	width: 275px;
+	margin-left: 2%;
+	margin-top: 2%;
+
+}
+#imagen3{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-size: 100% 100%;
+	height: 355px;
+	width: 275px;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+#imagen4{
+	background-image: url("../img/arabe.jpg");
+	background-size: 100% 100%;
+	height: 355px;
+	width: 275px;
+	margin-left: 7%;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+#imagen5{
+	background-image: url("../img/little.jpg");
+	background-size: 100% 100%;
+	height: 350px;
+	width: 270px;
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+#imagen6{
+	background-image: url("../img/yoga.jpg");
+	background-size: 100% 100%;
+	height: 350px;
+	width: 270px;
+	margin-left: 2%;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+.fond{
+	background-color: #151313;
+	opacity: 0.5;
+	margin-top: 50%;
+
+}
+.back{
+	background-image: url("../img/textura_1.jpg");
+	background-size: 100% 100%;
+}
+.bgb{
+	background-color:#37347D;
+}
+footer{
+	padding-top:2%; 
+	padding-bottom:2%;
+}
+#blue{
+	padding-bottom: 5%;
+	padding-top:5%;
+	margin-left: 2%;
+}
+.but2{
+	width: 35%;
+	height: 8%;
+	padding: 1%;
+	font-size: 120%;
+	/* border-radius: 5%; */
+	border-style: none;
+	margin-bottom: 2%;
+
+}
+.bgf{
+	background-image: url("../img/shoes_1.jpg");
+	background-size: 100% 100%;
+	/* height: 400px; */
+}
+input{
+	margin-bottom: 3%;
+	opacity: 0.8;
+	background-color: transparent;
+}
+
+.but2{
+	width: 35%;
+	height: 8%;
+	padding: 1%;
+	font-size: 120%;
+	/* border-radius: 5%; */
+	border-style: none;
+	margin-bottom: 2%;
+}
+.buttoncolor{
+	background-color: #37347D;
+	color:white;
+	text-decoration-style: none;
+}
+.espacio{
+	margin-left: 10%;
+	margin-top: 2%;
+}
